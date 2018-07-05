@@ -1,0 +1,9 @@
+localhost
+
+mime {
+  .wasm application/wasm
+}
+
+gzip {
+ ext *
+}
